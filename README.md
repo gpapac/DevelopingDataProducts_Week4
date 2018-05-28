@@ -9,7 +9,7 @@ For this presentation, the following data sources were used:
 * Population, total from world bank <https://data.worldbank.org/indicator/SP.POP.TOTL>
 * GDP per capita (current US$) from world bank <https://data.worldbank.org/indicator/NY.GDP.PCAP.CD>
 
-The code and the data files for the Shiny app, exist in subdirectory: GPAP_DevDataProducts_Week4_App
+The code for the Shiny app, exist in the 2 files: ui.R and server.R
 
 The running app can be viewed here:
 <https://gpapac.shinyapps.io/gpap_devdataproducts_week4_app/>
